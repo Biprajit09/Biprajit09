@@ -11,7 +11,7 @@ I’m a passionate **Data Analyst** 🔍, who loves to dive deep into data and d
 - 
 ## 📬 Contact Me
 - **Email**: [choudharybiprajit@gmail.com](mailto:choudharybiprajit@gmail.com) 📧
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/biprajit-choudhary-33485b329) 🔗
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/biprajit-choudhary-33485b329/) 🔗
 
 
 <!---
