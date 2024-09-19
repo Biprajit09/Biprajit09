@@ -8,10 +8,10 @@ I’m a passionate **Data Analyst** 🔍, who loves to dive deep into data and d
 - **Data Visualization**: Power BI 📊, Excel 📈
 - **Tools**: Jupyter Notebook 📓
 
-- 
+  
 ## 📬 Contact Me
 - **Email**: [choudharybiprajit@gmail.com](mailto:choudharybiprajit@gmail.com) 📧
-- **LinkedIn**: [LinkedIn Profile](in/biprajit-choudhary-33485b329)
+- **LinkedIn**: [LinkedIn Profile](linkedinto:in/biprajit-choudhary-33485b329)
 
 <!---
 Biprajit09/Biprajit09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
