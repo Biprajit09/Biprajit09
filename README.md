@@ -1,7 +1,6 @@
 ## 👋 Hey there! I'm Biprajit
 
-A curious mind with a deep passion for **data storytelling** and transforming raw numbers into clear, impactful insights.  
-I wear the hat of a **Data Analyst**, blending analytical rigor with a creative mindset to uncover patterns, solve business puzzles, and drive data-informed decisions.
+![Heading](./pngHeading.png)
 
 ---
 
