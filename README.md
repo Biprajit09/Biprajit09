@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Biprajit
 
-Heading.png
+
 
 ---
 
